@@ -1,40 +1,23 @@
-# Python Practice 🐍
+# Python Practice
 
-A collection of Python exercises and beginner-friendly programming projects documenting my learning journey.
+A personal repository for learning Python fundamentals and gradually building a collection of programming exercises.
 
-## About Me
+## Current Status
 
-Hi, I'm **Irfan Hussain**, a **Business Data Analytics student at COMSATS University Islamabad**. I'm learning to apply programming and data skills to practical problems.
+**In preparation.** This repository currently contains documentation only; no Python exercises or completed projects have been uploaded yet.
 
-## What I'm Learning
+## Learning Topics
 
-- **Python fundamentals:** variables, data types, conditions, loops, and functions
-- **Data structures:** lists, tuples, sets, and dictionaries
-- **File handling and exceptions:** reading, writing, and managing errors
-- **Problem-solving:** algorithms and small programming exercises
-- **Related interests:** SQL, databases, and business data analytics
+- Variables, data types, and operators
+- Conditions, loops, and functions
+- Lists, tuples, sets, and dictionaries
+- File handling and exception handling
+- Problem-solving with small Python programs
 
-## Repository Purpose
+## Planned Work
 
-This repository is my practice space for building confidence in Python through coursework, experiments, and small projects. I'll improve the organization and documentation as I learn more.
+I plan to add exercises and beginner projects as I complete them, with clear filenames, instructions, and explanations where helpful.
 
-## How to Use
+## Background
 
-Browse the Python files as they become available. You can run a script locally using:
-
-```bash
-python3 filename.py
-```
-
-Replace `filename.py` with the name of the script you want to run.
-
-## Goals
-
-- Write clean, readable, and well-documented Python
-- Strengthen problem-solving and programming fundamentals
-- Explore data analysis and practical business applications
-- Build a portfolio of projects over time
-
----
-
-*Learning consistently, one project at a time.*
+I am Irfan Hussain, a Business Data Analytics student at COMSATS University Islamabad, currently strengthening my programming and database skills.
